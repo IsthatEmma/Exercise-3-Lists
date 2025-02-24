@@ -12,4 +12,4 @@ while True:
     else:
         print(f"{item} is not in the list.")
 
-print("Final grocery list:", groceries)
+print("Updated grocery list:", groceries)
